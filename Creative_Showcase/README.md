@@ -6,7 +6,7 @@ Creative Showcase is a modern full-stack web platform designed for artists and c
 
 ## 🚀 Live Demo
 
-[Creative Showcase Live](https://creative-showcase-amarnath-kumar.vercel.app/)
+[Creative Showcase Live](https://creative-showcase-nine.vercel.app/)
 
 Demo Credentials:
 
@@ -158,7 +158,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Amarsah15/creative-showcase.git
+git clone https://github.com/ritam2004-dev/creative-showcase.git
 cd creative-showcase
 ```
 
